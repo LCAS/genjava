@@ -2,6 +2,18 @@
 Changelog for package genjava
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* lcas version
+* Merge pull request `#15 <https://github.com/lcas/genjava/issues/15>`_ from jubeira/gradle_3-5-1
+  Gradle update: 3.5.1
+* Using 'doLast' instead of '<<' operator in templates.
+* Gradle update: 3.5.1
+* Merge pull request `#13 <https://github.com/lcas/genjava/issues/13>`_ from meyerj/patch-1
+  Fix non-existent dependency warning for the catkin API (fix `#7 <https://github.com/lcas/genjava/issues/7>`_)
+* Fix non-existent dependency warning for the catkin API (fix `#7 <https://github.com/lcas/genjava/issues/7>`_)
+* Contributors: Johannes Meyer, Juan Ignacio Ubeira, Julian Cerruti, Marc Hanheide
+
 0.3.3 (2017-05-09)
 ------------------
 * Updating message_generation dependency to kinetic range in template to generate messages properly.
