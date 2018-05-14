@@ -2,8 +2,8 @@
 Changelog for package genjava
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.0 (2018-05-14)
+------------------
 * lcas version
 * Merge pull request `#15 <https://github.com/lcas/genjava/issues/15>`_ from jubeira/gradle_3-5-1
   Gradle update: 3.5.1
